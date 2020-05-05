@@ -1,6 +1,6 @@
-https://romansuvorkov.github.io/http2
+https://romansuvorkov.github.io/sse-ws4
 
-[![Build status](https://ci.appveyor.com/api/projects/status/46ly5uc4w34637fw?svg=true)](https://ci.appveyor.com/project/romansuvorkov/http2)
+[![Build status](https://ci.appveyor.com/api/projects/status/wafudvs5h3u62mfa?svg=true)](https://ci.appveyor.com/project/romansuvorkov/sse-ws4)
 
 
 Правила сдачи задания:
