@@ -3,8 +3,8 @@ import API from './API';
 export default class ChatWidget {
   constructor(name) {
     this.userName = name;
-    this.url = 'ws://localhost:7070/ws';
-    this.api = new API('http://localhost:7070/users');
+    this.url = 'ws://chat-widget-sse-ws3.herokuapp.com/ws';
+    this.api = new API('https://chat-widget-sse-ws3.herokuapp.com/users');
   }
 
   init() {
